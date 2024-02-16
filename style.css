@@ -89,3 +89,6 @@ nav .btn{
     color: #fff;
     margin-bottom: 5px;
 }
+.tradingview-widget-copyright{
+    display: none !important;
+}
